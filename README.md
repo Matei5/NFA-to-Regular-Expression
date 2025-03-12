@@ -1,2 +1,2 @@
-# Automatas-Implementation
-Implementation of three automatas of different complexity levels, with examples
+#NFA to Regular Expression
+Implemented a python program that outputs a regular expression from a given Non Deterministsic Automata
