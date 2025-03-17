@@ -59,7 +59,7 @@ def simplificareTranzitii(stare):
 # ===========================================================
 
 
-with open("in.txt") as f:
+with open("complement.txt") as f:
     f.readline()
     stari = [int(x) for x in f.readline().split()]
 
